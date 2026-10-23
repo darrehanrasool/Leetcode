@@ -1,0 +1,1 @@
+# 💡 Bash Pipeline & Python Equivalence
